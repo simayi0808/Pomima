@@ -9,5 +9,7 @@ public class Test {
         System.out.println("update ...");
         System.out.println("gitHub update ...");
         System.out.println("conflict bendi");
+        System.out.println("conflict gitHub ...");
+
     }
 }
